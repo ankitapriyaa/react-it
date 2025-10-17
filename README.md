@@ -1,3 +1,3 @@
 # react-it
 
-react in style
+react in style and
