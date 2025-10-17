@@ -1,3 +1,3 @@
 # react-it
 
-Learn react
+Learn react in style
